@@ -21,4 +21,3 @@
     })
     
     clear.addEventListener('click', ()=>{   screen.value = ""; })
-
